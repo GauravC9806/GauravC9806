@@ -1,3 +1,6 @@
+![logo](https://github.com/GauravC9806/GauravC9806/blob/main/github-header-image%20(1).png)
+
+
 <h1 align="center">Hi 👋, I'm Gaurav Chauhan</h1>
 <h3 align="center">I am a first-year student passionate about coding and learning new things.</h3>
 
