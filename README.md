@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Chauhan</h1>
 <h3 align="center">I am a first-year student passionate about coding and learning new things.</h3>
 
-<img align="right" alt="coding" width=300 boder-radius=10 src="https://i.imgflip.com/4/8716pf.jpg">
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://media.tenor.com/cX92mi1p-NYAAAAM/coding-anime.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravc9806&label=Profile%20views&color=0e75b6&style=flat" alt="gauravc9806" /> </p>
 
