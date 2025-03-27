@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravc9806" alt="gauravc9806" /></a> </p>
 
-<img align="right" alt="coding" width=300 boder-radius=10 src="https://tenor.com/bRTDJ.gif">
+<img align="right" alt="coding" width=300 boder-radius=10 src="https://media.tenor.com/cX92mi1p-NYAAAAM/coding-anime.gif">
 
 - 🔭 I’m currently working on [Dermacare app]((in progress))
 
