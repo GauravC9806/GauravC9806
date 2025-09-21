@@ -12,11 +12,11 @@
 
 - 🔭 I’m currently working on [Dermacare app]((in progress))
 
-- 🌱 I’m currently learning **Python, C++**
+- 🌱 I’m currently learning **Python, C++, Java**
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **Gauravchauhan7598@gmail.com**
+- 📫 How to reach me **Gauravchauhan9806@gmail.com**
 
 - ⚡ Fun fact **Would be fun to work with!**
 
